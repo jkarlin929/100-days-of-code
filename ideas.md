@@ -1,6 +1,9 @@
 # Ideas
 
 1. Portfolio
+  - image size
+  - large divs, for projects taking up width of screen
+  - nav bar color
 1. Hooks tutorial
 1. JavaScript weather app
 1. [App Ideas](https://github.com/florinpop17/app-ideas)
